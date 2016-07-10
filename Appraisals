@@ -14,3 +14,7 @@ end
 appraise 'activerecord-5.0' do
   gem 'activerecord', "~> 5.0.0"
 end
+
+appraise 'activerecord-5-0-stable' do
+  gem 'activerecord', github: "rails/rails", branch: '5-0-stable'
+end

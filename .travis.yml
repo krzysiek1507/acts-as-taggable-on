@@ -16,6 +16,7 @@ gemfile:
   - gemfiles/activerecord_4.0.gemfile
   - gemfiles/activerecord_4.1.gemfile
   - gemfiles/activerecord_5.0.gemfile
+  - gemfiles/activerecord_5_0_stable.gemfile
 
 sudo: false
 
